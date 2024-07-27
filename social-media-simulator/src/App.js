@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-        Social Media Simulator
+        Social Media Simulator1
     </div>
   );
 }
